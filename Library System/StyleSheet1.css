@@ -1,0 +1,53 @@
+﻿
+body {
+    font-family: Arial, sans-serif;
+}
+.content {
+    max-width: 4em;
+    margin: 0 auto;
+    font-size: 24px;
+}
+.sign-up 
+
+{
+    width: 450px;
+   
+    margin: 8% auto 0;
+    text-align: center;
+    height: 60px;
+}
+label 
+{
+   text-align: left;
+}
+form 
+{
+    min-width: 300px;
+  min-height: 700px;
+
+}
+button 
+{
+    min-height: 40px;
+}
+.sign-up h1 {
+    font-size: 40px;
+    color: #1c8adb;
+    margin-bottom: 70px;
+    font-family: 'Times New Roman', sans-serif;
+}
+.help {
+    position: relative;
+    left: 200px;
+    top: 0;
+    
+}
+.form-style 
+{
+max-width: 40em;
+max-height: 80em;
+}
+.cancelbtn {
+    min-width: 120px;
+    max-width: 120px;
+}

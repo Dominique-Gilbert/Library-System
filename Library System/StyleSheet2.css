@@ -1,0 +1,54 @@
+﻿
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.content {
+    max-width: 4em;
+    margin: 0 auto;
+}
+
+.sign-up {
+    width: 450px;
+    margin: 8% auto 0;
+    text-align: center;
+    height: 60px;
+}
+
+label {
+    text-align: left;
+}
+
+form {
+    min-width: 300px;
+    min-height: 500px;
+    
+}
+
+button {
+    min-height: 40px;
+}
+
+.sign-up h1 {
+    font-size: 40px;
+    color: #1c8adb;
+    margin-bottom: 70px;
+    text-align: center;
+    display: inline;
+}
+
+.help {
+    position: relative;
+    left: 200px;
+    top: 0;
+}
+
+.form-style {
+    max-width: 80em;
+    max-height: 80em;
+}
+.login {
+    max-width: 60px;
+    min-width: 60px;
+}
